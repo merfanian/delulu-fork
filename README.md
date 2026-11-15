@@ -5,11 +5,6 @@
   Every golden completion compiles. Every hallucination provably doesn't.
 </p>
 
-
-<p align="center">
-  <a href="https://arxiv.org/abs/2605.07024"><strong>📄 Read the preprint on arXiv →</strong></a>
-</p>
-
 <p align="center">
   <img src="sample.png" alt="Delulu benchmark viewer showing a verified hallucination sample" width="900">
 </p>
