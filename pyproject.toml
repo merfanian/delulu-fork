@@ -10,13 +10,7 @@ readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
 authors = [
-    { name = "Mahdi Erfanian" },
-    { name = "Nelson Daniel Troncoso" },
-    { name = "Aashna Garg" },
-    { name = "Amabel Gale" },
-    { name = "Xiaoyu Liu" },
-    { name = "Pareesa Ameneh Golnari" },
-    { name = "Shengyu Fu" },
+    { name = "Anonymous" }
 ]
 keywords = ["code", "llm", "hallucination", "benchmark", "fim", "evaluation"]
 
